@@ -1,0 +1,69 @@
+{
+   "CAR_LIST" : {
+      "CAR" : [ {
+         "IMAGE" : "<a href='cars.html' class='type' style='margin-top: 0px;'><img src='images/cars/innova.jpg' width='170' height='108' alt='Toyota Innova'><span class='type_caption1'>Toyota Innova</span></a>",
+         "RATE" : "1650",
+         "LIMIT" : "80",
+         "TIME" : "8",
+         "EXTRA_DISTANCE" : "12",
+         "OVER_TIME" : "INR 100",
+         "BOOK_NOW" : "<a href='booktaxi.html?selected_car=Toyota Innova' class='btn bookNow'>Book Now!</a>"
+      }, {
+         "IMAGE" : "<a href='cars.html' class='type' style='margin-top: 0px;'><img src='images/cars/bolero.jpg' width='170' height='108' alt='Mahindra Bolero'><span class='type_caption1'>Bolero</span></a>",
+         "RATE" : "1650",
+         "LIMIT" : "80",
+         "TIME" : "8",
+         "EXTRA_DISTANCE" : "12",
+         "OVER_TIME" : "INR 100",
+         "BOOK_NOW" : "<a href='booktaxi.html?selected_car=Mahindra Bolero' class='btn bookNow'>Book Now!</a>"
+      }, {
+         "IMAGE" : "<a href='cars.html' class='type' style='margin-top: 0px;'><img src='images/cars/xylo.png' width='170' height='108' alt='Mahindra Xylo'><span class='type_caption1'>Xylo</span></a>",
+         "RATE" : "1550",
+         "LIMIT" : "80",
+         "TIME" : "8",
+         "EXTRA_DISTANCE" : "12",
+         "OVER_TIME" : "INR 100",
+         "BOOK_NOW" : "<a href='booktaxi.html?selected_car=Mahindra Xylo' class='btn bookNow'>Book Now!</a>"
+      }, {
+         "IMAGE" : "<a href='cars.html' class='type' style='margin-top: 0px;'><img src='images/cars/tavera.jpg' width='170' height='108' alt='Chevrolet Tavera'><span class='type_caption1'>Tavera</span></a>",
+         "RATE" : "1550",
+         "LIMIT" : "80",
+         "TIME" : "8",
+         "EXTRA_DISTANCE" : "12",
+         "OVER_TIME" : "INR 100",
+         "BOOK_NOW" : "<a href='booktaxi.html?selected_car=Chevrolet Tavera' class='btn bookNow'>Book Now!</a>"
+      }, {
+         "IMAGE" : "<a href='cars.html' class='type' style='margin-top: 0px;'><img src='images/cars/etios.png' width='170' height='108' alt='Toyota Etios'><span class='type_caption1'>Etios</span></a>",
+         "RATE" : "1350",
+         "LIMIT" : "80",
+         "TIME" : "8",
+         "EXTRA_DISTANCE" : "9",
+         "OVER_TIME" : "INR 100",
+         "BOOK_NOW" : "<a href='booktaxi.html?selected_car=Toyota Etios' class='btn bookNow'>Book Now!</a>"
+      }, {
+         "IMAGE" : "<a href='cars.html' class='type' style='margin-top: 0px;'><img src='images/cars/dzire.jpg' width='170' height='108' alt='Maruti Suzuki Dzire'><span class='type_caption1'>Dzire</span></a>",
+         "RATE" : "1350",
+         "LIMIT" : "80",
+         "TIME" : "8",
+         "EXTRA_DISTANCE" : "9",
+         "OVER_TIME" : "INR 100",
+         "BOOK_NOW" : "<a href='booktaxi.html?selected_car=Maruti Suzuki Dzire' class='btn bookNow'>Book Now!</a>"
+      }, {
+         "IMAGE" : "<a href='cars.html' class='type' style='margin-top: 0px;'><img src='images/cars/indigo.jpg' width='170' height='108' alt='Tata Indigo'><span class='type_caption1'>Indigo</span></a>",
+         "RATE" : "1250",
+         "LIMIT" : "80",
+         "TIME" : "8",
+         "EXTRA_DISTANCE" : "8",
+         "OVER_TIME" : "INR 75",
+         "BOOK_NOW" : "<a href='booktaxi.html?selected_car=Tata Indigo' class='btn bookNow'>Book Now!</a>"
+      }, {
+         "IMAGE" : "<a href='cars.html' class='type' style='margin-top: 0px;'><img src='images/cars/tempo.png' width='170' height='108' alt='Tempo Traveller'><span class='type_caption1'>Traveller</span></a>",
+         "RATE" : "2550",
+         "LIMIT" : "80",
+         "TIME" : "8",
+         "EXTRA_DISTANCE" : "15",
+         "OVER_TIME" : "INR 150",
+         "BOOK_NOW" : "<a href='booktaxi.html?selected_car=Tempo Traveller' class='btn bookNow'>Book Now!</a>"
+      } ]
+   }
+}
